@@ -28,7 +28,7 @@ h1 {
 
 .artista-container {
   display: flex;
-  flex-direction: row-reverse; /* Imagen a la derecha */
+  flex-direction: row;
   align-items: flex-start;
   gap: 40px;
   max-width: 1000px;
